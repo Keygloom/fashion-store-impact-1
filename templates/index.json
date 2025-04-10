@@ -1,1 +1,94 @@
-{"sections":{"761208eb-592b-4c87-9eeb-731e76dd424c":{"type":"slideshow","blocks":{"image_fQNBw6":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/summerbanner.jpg","mobile_image":"shopify:\/\/shop_images\/summerbannerMobile.jpg","content_max_width":780,"mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","subheading":"Discover Your Luxurious Self","title":"Elegance Redefined","heading_tag":"h1","button_text":"Discover more","button_link":"shopify:\/\/collections\/all","text_color":"#ffffff","button_background":"#ffffff","button_text_color":"#000000","overlay_color":"#000000","overlay_opacity":30,"background":"","background_gradient":""}}},"block_order":["image_fQNBw6"],"settings":{"full_width":true,"allow_transparent_header":true,"image_size":"sm","controls_type":"dots","transition_type":"fade_with_text","autoplay":false,"cycle_speed":6,"background":"#f2f2f2","background_gradient":""}},"featured_collection_qxAABj":{"type":"featured-collection","settings":{"collection":"","products":["casual-jumpsuit","ester","josefin","lina","pien-1","stefano","travelher-foldable-clothing-bag","v-neck-sleeved-knit-midi-dress","axelvaska","femmes"],"full_width":false,"stack_products":false,"show_progress_bar":true,"products_count":6,"products_per_row_mobile":"1","products_per_row_desktop":3,"subheading":"","title":"New Arrivals","content":"","link_url":"","link_text":"View all","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","product_card_background":"","product_card_text_color":""}}},"order":["761208eb-592b-4c87-9eeb-731e76dd424c","featured_collection_qxAABj"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "761208eb-592b-4c87-9eeb-731e76dd424c": {
+      "type": "slideshow",
+      "blocks": {
+        "image_fQNBw6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/62dbd93bb97d0-4-e1709809168264-1400x922.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Discover Your Luxurious Self",
+            "title": "Elegance Redefined",
+            "heading_tag": "h1",
+            "button_text": "Discover more",
+            "button_link": "shopify://collections/all",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_fQNBw6"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "sm",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": ""
+      }
+    },
+    "featured_collection_qxAABj": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "",
+        "products": [
+          "casual-jumpsuit",
+          "ester",
+          "josefin",
+          "lina",
+          "pien-1",
+          "stefano",
+          "travelher-foldable-clothing-bag",
+          "v-neck-sleeved-knit-midi-dress",
+          "axelvaska",
+          "femmes"
+        ],
+        "full_width": false,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_count": 6,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "New Arrivals",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "761208eb-592b-4c87-9eeb-731e76dd424c",
+    "featured_collection_qxAABj"
+  ]
+}
