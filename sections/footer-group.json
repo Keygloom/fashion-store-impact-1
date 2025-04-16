@@ -88,8 +88,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer Support",
-            "content": "<p>Our customer service can be reached at <a>info@velven.nl</a></p>"
+            "title": "Kundesupport",
+            "content": "<p>Vores kundeservice kan kontaktes på info@velven.nl</p>"
           }
         },
         "discount": {
@@ -101,8 +101,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "100% Satisfaction Guarantee",
-            "content": "<p>We offer a 14-day money-back guarantee if you are not satisfied.</p>"
+            "title": "100% tilfredshedsgaranti",
+            "content": "<p>Vi tilbyder 14 dages pengene-tilbage-garanti, hvis du ikke er tilfreds.</p>"
           }
         },
         "payment": {
@@ -114,8 +114,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Secure Payment",
-            "content": "<p>We only use official payment methods.</p>"
+            "title": "Sikker betaling",
+            "content": "<p>Vi bruger kun officielle betalingsmetoder.</p>"
           }
         }
       },
