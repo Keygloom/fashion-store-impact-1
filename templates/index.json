@@ -94,8 +94,9 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "image": "shopify://shop_images/82B65hg-RFaCErNyl7xwlw.webp",
             "subheading": "",
-            "title": "",
+            "title": "Men",
             "url": "",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
@@ -108,8 +109,9 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "image": "shopify://shop_images/hl13D0eDRkW1-NMK7FGaNw.webp",
             "subheading": "",
-            "title": "",
+            "title": "women",
             "url": "",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
