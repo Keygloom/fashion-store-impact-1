@@ -152,7 +152,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About us",
+            "title": "Om os",
             "content": "<p>Velven tilbyder et bredt udvalg af tøj og tilbehør, der er designet til at berige hverdagen. Vores produkter blander bekvemmelighed med stil og imødekommer alles behov. Sammen gør vi hver dag smukkere og lettere ved at forbedre din garderobe med vores omhyggeligt udvalgte varer.</p>",
             "enable_follow_on_shop": false
           }
