@@ -182,6 +182,15 @@
             "author_date": "Cathrine"
           }
         },
+        "slide_ifg8PW": {
+          "type": "slide",
+          "settings": {
+            "stars_count": 5,
+            "heading": "Dette er stedet at være",
+            "text": "Sikke et frisk pust! Denne webshop har præcis det tøj, jeg har ledt efter så længe: stilfuldt, moderne og alligevel tidløst. Billederne og beskrivelserne er helt rigtige, og størrelserne falder som angivet. Jeg føler mig virkelig godt tilpas i disse outfits, og det er det vigtigste.",
+            "author_date": "Ida"
+          }
+        },
         "slide_FDXUTi": {
           "type": "slide",
           "settings": {
@@ -206,6 +215,7 @@
         "slide_qWYXPa",
         "slide_wRU468",
         "slide_xUWDnM",
+        "slide_ifg8PW",
         "slide_FDXUTi",
         "slide_4xgWYJ"
       ],
