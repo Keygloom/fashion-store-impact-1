@@ -53,7 +53,7 @@
     "featured_collection_qxAABj": {
       "type": "featured-collection",
       "settings": {
-        "collection": "",
+        "collection": "bestsellers",
         "products": [
           "casual-jumpsuit",
           "ester",
