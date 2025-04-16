@@ -22,18 +22,10 @@
             "url": ""
           }
         },
-        "19b364a7-d4d8-4c48-ba65-2efcb04eb05b": {
-          "type": "message",
-          "disabled": true,
-          "settings": {
-            "text": "Pay later with Klarna",
-            "url": ""
-          }
-        },
         "message_9TXqQf": {
           "type": "message",
           "settings": {
-            "text": "Free Shipping Only Today!",
+            "text": "Gratis forsendelse kun i dag!",
             "url": ""
           }
         },
@@ -54,7 +46,6 @@
       },
       "block_order": [
         "message",
-        "19b364a7-d4d8-4c48-ba65-2efcb04eb05b",
         "message_9TXqQf",
         "2148b95b-e5bd-41cd-aacd-39331e5b744d",
         "3d251e95-a1e9-4e15-875c-8b6001b8c444"
