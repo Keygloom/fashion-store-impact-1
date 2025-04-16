@@ -17,8 +17,8 @@
         "50c9c252-201a-4b24-9669-334e5133231e": {
           "type": "item",
           "settings": {
-            "title": "What if I'm not happy with my purchase?",
-            "content": "<p>At RoyalOrnate™, we aim for 100% customer satisfaction. If, for any reason, you are not satisfied with your purchase, you have 14 days to return the product and receive a full refund. Please contact us through our customer service, and we will guide you through the return process.</p>"
+            "title": "Hvad hvis jeg ikke er tilfreds med mit køb?",
+            "content": "<p>Hos Velven™ stræber vi efter 100 % kundetilfredshed. Hvis du af en eller anden grund ikke er tilfreds med dit køb, har du 14 dage til at returnere produktet og få alle pengene tilbage. Kontakt os via vores kundeservice, så guider vi dig gennem returprocessen.</p>"
           }
         },
         "sections--19866675347802__901a7366-58d8-421a-82b2-0c494c584ccd-item-2": {
@@ -44,7 +44,7 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "FAQ",
+        "title": "OFTE STILLEDE SPØRGSMÅL",
         "content": "",
         "team_avatar_width": 160,
         "support_hours": "Our customer service is available from Monday to Friday: 8:00 AM to 8:30 PM.",
