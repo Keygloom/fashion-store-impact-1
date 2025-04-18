@@ -125,17 +125,16 @@
         "collection_4CUna4",
         "collection_dPR3D7"
       ],
-      "name": "Collection list",
       "settings": {
         "full_width": true,
         "stack_collections": true,
         "collections_per_row": 3,
         "show_progress_bar": false,
         "subheading": "",
-        "title": "Collection list",
+        "title": "Liste over samlinger",
         "content": "",
         "link_url": "",
-        "link_text": "View all",
+        "link_text": "Se alle",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -219,7 +218,6 @@
         "slide_FDXUTi",
         "slide_4xgWYJ"
       ],
-      "name": "SS - Testimonial #8",
       "settings": {
         "heading": "Vores kunder fortæller det bedre, end vi gør!",
         "heading_custom": false,
@@ -378,7 +376,6 @@
       "block_order": [
         "image_86YqgF"
       ],
-      "name": "Media with text",
       "settings": {
         "full_width": false,
         "spacing": "small"
@@ -432,7 +429,6 @@
         "item_bP4fcy",
         "item_rLXmT8"
       ],
-      "name": "Text with icons",
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
