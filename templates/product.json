@@ -36,6 +36,7 @@
         },
         "44856f88-2876-4fed-9edb-54ea2c222587": {
           "type": "inventory",
+          "disabled": true,
           "settings": {
             "low_inventory_threshold": 2
           }
