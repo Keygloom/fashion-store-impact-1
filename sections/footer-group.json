@@ -11,69 +11,6 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
-    "logo_list_9JmRjb": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_gVNjfx": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_bqhKh3": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_WJVjAQ": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_Gz8mpj": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_GpYDmr": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_gVNjfx",
-        "logo_bqhKh3",
-        "logo_WJVjAQ",
-        "logo_Gz8mpj",
-        "logo_GpYDmr"
-      ],
-      "name": "Logo list",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "title": "Logo list",
-        "content": "",
-        "text_alignment": "start",
-        "items_per_row": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
-    },
     "901a7366-58d8-421a-82b2-0c494c584ccd": {
       "type": "faq",
       "blocks": {
@@ -254,7 +191,6 @@
     }
   },
   "order": [
-    "logo_list_9JmRjb",
     "901a7366-58d8-421a-82b2-0c494c584ccd",
     "text-with-icons",
     "footer"
