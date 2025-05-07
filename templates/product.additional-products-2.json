@@ -230,96 +230,6 @@
         "testimonial_card_text_color": ""
       }
     },
-    "images_with_text_scrolling_bbqjXt": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_9yyTCC": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Veelzijdigheid voor Elke Gelegenheid",
-            "content": "<p><strong>Aanpasbaar voor Thuis en Avontuur:</strong> Of je nu thuis ontspant of op ontdekkingstocht gaat, de BeBeLilla draagdoek past zich moeiteloos aan. Dit veelzijdige, omkeerbare ontwerp kan zelfs worden omgetoverd tot een stijlvolle sjaal, waardoor het een modieuze toevoeging is aan je garderobe.</p>"
-          }
-        },
-        "item_mbfWcp": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Unieke Blend van Comfort en Stijl",
-            "content": "<p><strong>100% Biologisch Katoen met Mega Elasticiteit:</strong> Ontdek de uitzonderlijke zachtheid en ondersteuning van de BeBeLilla draagdoek. Vervaardigd uit 100% biologisch katoen en verrijkt met een vleugje lycra, biedt deze draagdoek zowel comfort als krachtige ondersteuning, ideaal voor het dragen van baby's en peuters tot 28 kg.</p>"
-          }
-        },
-        "item_iYK888": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Ergonomisch Ontworpen voor Ouder en Kind",
-            "content": "<p><strong>Stijl Ontmoet Functionaliteit:</strong> Geniet van een handsfree ervaring met de ergonomisch ontworpen BeBeLilla draagdoek. Deze draagdoek vermindert de belasting op je rug en schouders, waardoor het ouderschap een beetje gemakkelijker wordt, terwijl het ook een elegante toevoeging is aan je dagelijkse outfit.</p>"
-          }
-        },
-        "item_rHyHVh": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Tevredenheids Garantie",
-            "content": "<p><strong>14 Dagen Tevredenheidsgarantie met Exclusieve Korting:</strong> Ervaar zelf de voordelen van BeBeLilla met onze 14-daagse tevredenheidsgarantie. Als je niet volledig tevreden bent, bieden we een probleemloze geld-terug-garantie.</p>"
-          }
-        },
-        "item_bfEy3B": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Veiligheid Voorop",
-            "content": "<p><strong>BeBeLilla Babydraagdoek Richtlijnen:</strong> Onze draagdoek is ontworpen met de veiligheid van je baby als prioriteit. Volg onze eenvoudige richtlijnen om te zorgen voor een veilige, comfortabele draagervaring, zoals het zichtbaar houden van het gezicht van je baby, het garanderen van een vrije luchtweg, en het handhaven van een natuurlijke lichaamshouding.</p>"
-          }
-        },
-        "item_iLKwJr": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Gebruiksgemak van de BeBeLilla Draagdoek",
-            "content": "<p>Bij uw BeBeLilla draagdoek ontvangt u een gedetailleerde gebruiksinstructie. Deze handige gids biedt stap-voor-stap instructies en tips om het maximale uit uw draagdoek te halen en zorgt voor een veilige en comfortabele ervaring voor zowel u als uw baby. </p>"
-          }
-        },
-        "item_9DQb9W": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Was- en Onderhoudsinstructies",
-            "content": "<p>Om ervoor te zorgen dat uw BeBeLilla draagdoek zijn kwaliteit en comfort behoudt, volg deze eenvoudige richtlijnen:</p><ol><li><strong>Machinewas:</strong> Was de draagdoek in de machine op een zacht programma. Gebruik een mild wasmiddel en vermijd bleekmiddelen of agressieve chemicaliën. Het is aanbevolen om de draagdoek met gelijke kleuren te wassen om kleuroverdracht te voorkomen.</li><li><strong>Drogen:</strong> De draagdoek kan op verschillende manieren worden gedroogd:</li><li><strong>Strijken:</strong> Strijken van de draagdoek is niet aangeraden door de lycra die beschadigd kan worden, indien het toch nodig is dan zal het op lage temperatuur moeten gebeuren. </li><li><strong>Opbergen:</strong> Bewaar de draagdoek op een droge, koele plaats om vocht en schimmelgroei te voorkomen. Vouw of rol het op voor gemakkelijke opslag zonder kreuken te veroorzaken.</li></ol>"
-          }
-        }
-      },
-      "block_order": [
-        "item_9yyTCC",
-        "item_mbfWcp",
-        "item_iYK888",
-        "item_rHyHVh",
-        "item_bfEy3B",
-        "item_iLKwJr",
-        "item_9DQb9W"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": false,
-        "stack_on_mobile": true,
-        "show_counter": true,
-        "desktop_image_effect": "fade",
-        "image_position": "start",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "1704571108a5ada528": {
       "type": "apps",
       "settings": {
@@ -592,7 +502,6 @@
   "order": [
     "main",
     "testimonials_hDniXa",
-    "images_with_text_scrolling_bbqjXt",
     "1704571108a5ada528",
     "testimonials_xn7nHK",
     "ss_testimonial_8_7kqhFp"
