@@ -24,7 +24,6 @@
         },
         "liquid_CTRaq9": {
           "type": "liquid",
-          "disabled": true,
           "settings": {
             "liquid": "<style>\n        #trustpilot-rating {\n            font-family: Arial, sans-serif;\n        }\n\n        .stars-outer {\n            display: inline-block;\n            position: relative;\n            font-family: \"Font Awesome 5 Free\";\n            font-weight: 900;\n            color: #ccc;\n        }\n\n        .stars-outer::before {\n            content: \"\\f005 \\f005 \\f005 \\f005 \\f005\";\n        }\n\n        .stars-inner {\n            position: absolute;\n            top: 0;\n            left: 0;\n            white-space: nowrap;\n            overflow: hidden;\n            width: 94%; /* Representing 4.7/5 rating */\n            color: #ffcc00;\n        }\n\n        .stars-inner::before {\n            content: \"\\f005 \\f005 \\f005 \\f005 \\f005\";\n        }\n\n        .rating-number, .total-reviews {\n            margin-left: 8px;\n        }\n    </style>\n    <!-- Font Awesome CSS for Star Icons -->\n    <link rel=\"stylesheet\" href=\"https://use.fontawesome.com/releases/v5.0.13/css/all.css\">\n\n\n\n <div class=\"star-rating\">\n        <div class=\"stars-outer\">\n            <div class=\"stars-inner\"></div>\n        </div>\n        <span class=\"rating-value\">4.7/5 (486 recensies)</span>\n      \n    </div>"
           }
@@ -35,10 +34,10 @@
             "show_taxes_notice": false
           }
         },
-        "44856f88-2876-4fed-9edb-54ea2c222587": {
+        "inventory_YUdGdd": {
           "type": "inventory",
           "settings": {
-            "low_inventory_threshold": 2
+            "low_inventory_threshold": 3
           }
         },
         "offer_bWL3GY": {
@@ -129,7 +128,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": false,
-            "atc_button_background": "#aa968a",
+            "atc_button_background": "#00a341",
             "atc_button_text_color": "#ffffff",
             "payment_button_background": "#f5c9c7",
             "payment_button_text_color": "#000000"
@@ -161,7 +160,7 @@
         "title",
         "liquid_CTRaq9",
         "price",
-        "44856f88-2876-4fed-9edb-54ea2c222587",
+        "inventory_YUdGdd",
         "offer_bWL3GY",
         "offer_UVPaTg",
         "offer_8mtkFn",
