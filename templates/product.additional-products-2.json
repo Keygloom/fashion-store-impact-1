@@ -588,25 +588,18 @@
         "lazy": true
       }
     },
-    "related_products_FHHGnK": {
-      "type": "related-products",
-      "name": "Related products",
+    "recently_viewed_products_rNECRU": {
+      "type": "recently-viewed-products",
+      "name": "Recently viewed products",
       "settings": {
-        "recommendations_count": 6,
-        "products": [
-          "amelie-elegante-strapless-jumpsuit",
-          "annegret-damesjurk-met-v-hals",
-          "eline-comfortabele-jurk",
-          "eline-elegante-gebloemde-jurk",
-          "stijlvolle-en-eenvoudige-jumpsuit"
-        ],
         "full_width": true,
+        "products_count": 6,
         "stack_products": true,
         "show_progress_bar": false,
         "products_per_row_mobile": "1",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "You may also like",
+        "title": "Recently viewed products",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -625,6 +618,6 @@
     "1704571108a5ada528",
     "testimonials_xn7nHK",
     "ss_testimonial_8_7kqhFp",
-    "related_products_FHHGnK"
+    "recently_viewed_products_rNECRU"
   ]
 }
