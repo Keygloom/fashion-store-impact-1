@@ -593,7 +593,13 @@
       "name": "Related products",
       "settings": {
         "recommendations_count": 6,
-        "products": [],
+        "products": [
+          "amelie-elegante-strapless-jumpsuit",
+          "annegret-damesjurk-met-v-hals",
+          "eline-comfortabele-jurk",
+          "eline-elegante-gebloemde-jurk",
+          "stijlvolle-en-eenvoudige-jumpsuit"
+        ],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
