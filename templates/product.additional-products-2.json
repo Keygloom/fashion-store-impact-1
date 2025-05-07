@@ -144,7 +144,6 @@
         },
         "e0f4fff0-5992-4f1f-9e8d-f57c5be4f4f5": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "alignment": "center",
             "max_width": 260
@@ -337,6 +336,7 @@
       "blocks": {
         "testimonial_nBrwDe": {
           "type": "testimonial",
+          "disabled": true,
           "settings": {
             "round_avatar": true,
             "show_rating": true,
