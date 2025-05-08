@@ -66,6 +66,14 @@
             "size_chart_page": ""
           }
         },
+        "kiwi_size_chart_recommender_kiwi_sizing_itNmWT": {
+          "type": "shopify://apps/kiwi-size-chart-recommender/blocks/kiwiSizing/b7369922-bf15-44ce-a121-a22a8fcbc4b0",
+          "settings": {
+            "product": "{{product}}",
+            "waitForElementSelector": "",
+            "waitForElementDelay": 5
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
@@ -75,14 +83,6 @@
           "disabled": true,
           "settings": {
             "liquid": "<style>\n    .separator {\n        display: flex;\n        align-items: center;\n        text-align: center;\n        margin: 20px 0;\n    }\n\n    .separator::before,\n    .separator::after {\n        content: '';\n        flex: 1;\n        border-bottom: 1px solid #d3d3d3; /* light grey color */\n    }\n\n    .separator:not(:empty)::before {\n        margin-right: .25em;\n    }\n\n    .separator:not(:empty)::after {\n        margin-left: .25em;\n    }\n</style>\n\n<div class=\"separator\">Bespaar met bundels</div>"
-          }
-        },
-        "kiwi_size_chart_recommender_kiwi_sizing_Re73TN": {
-          "type": "shopify://apps/kiwi-size-chart-recommender/blocks/kiwiSizing/b7369922-bf15-44ce-a121-a22a8fcbc4b0",
-          "settings": {
-            "product": "{{product}}",
-            "waitForElementSelector": "",
-            "waitForElementDelay": 1
           }
         },
         "buy_buttons": {
@@ -128,9 +128,9 @@
         "payment_terms",
         "separator",
         "variant_picker",
+        "kiwi_size_chart_recommender_kiwi_sizing_itNmWT",
         "quantity_selector",
         "d9d85ad2-4a54-434b-a57e-743543df75f3",
-        "kiwi_size_chart_recommender_kiwi_sizing_Re73TN",
         "buy_buttons",
         "4ae71e60-828c-4c93-aea6-33f883a99adf",
         "e0f4fff0-5992-4f1f-9e8d-f57c5be4f4f5",
