@@ -36,6 +36,7 @@
         },
         "inventory_YUdGdd": {
           "type": "inventory",
+          "disabled": true,
           "settings": {
             "low_inventory_threshold": 3
           }
@@ -116,6 +117,14 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "kiwi_size_chart_recommender_kiwi_sizing_QKqDJm": {
+          "type": "shopify://apps/kiwi-size-chart-recommender/blocks/kiwiSizing/b7369922-bf15-44ce-a121-a22a8fcbc4b0",
+          "settings": {
+            "product": "{{product}}",
+            "waitForElementSelector": "",
+            "waitForElementDelay": 5
+          }
+        },
         "d9d85ad2-4a54-434b-a57e-743543df75f3": {
           "type": "liquid",
           "disabled": true,
@@ -169,6 +178,7 @@
         "separator",
         "variant_picker",
         "quantity_selector",
+        "kiwi_size_chart_recommender_kiwi_sizing_QKqDJm",
         "d9d85ad2-4a54-434b-a57e-743543df75f3",
         "buy_buttons",
         "4ae71e60-828c-4c93-aea6-33f883a99adf",
