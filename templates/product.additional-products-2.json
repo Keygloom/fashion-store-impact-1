@@ -260,8 +260,8 @@
             "show_rating": true,
             "rating": 4,
             "author": "Sofie L.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "Topkvalitet til en toppris!",
+            "content": "<p>“Altid fine nye items, der passer perfekt til sæsonen. Pasformen er super, og jeg får ofte komplimenter!”</p>"
           }
         },
         "testimonial_EpDQTy": {
@@ -271,8 +271,8 @@
             "show_rating": true,
             "rating": 5,
             "author": "Freja K.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "Min nye yndlingsbutik",
+            "content": "<p>“Jeg elsker blandingen af basisvarer og trendy styles. Man kan virkelig se, at der er fokus på detaljerne. Det bliver min nye favoritbutik!”</p>"
           }
         },
         "testimonial_xyp7Jh": {
@@ -281,16 +281,40 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
+            "author": "Maja S.",
+            "title": "Trendy varer uden designerprisen",
+            "content": "<p>“Lækker webshop! Alt er overskueligt, nemt at bestille og man får opdateringer om leveringen. Kan klart anbefales.”</p>"
+          }
+        },
+        "testimonial_KwktAM": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
             "author": "Laura H.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "Trendy varer uden designerprisen",
+            "content": "<p>“Jeg elsker, at stilen er moderne, men stadig nem at have på. Jeg har allerede bestilt tre outfits, og jeg er glad hver gang!”</p><p></p>"
+          }
+        },
+        "testimonial_VUK3hM": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Julie B.",
+            "title": "Stilfuldt, overkommeligt og behageligt",
+            "content": "<p>\"Det føles som om jeg køber designeritems – bare uden prisskiltet. Super stilfuldt og meget overkommeligt!\"</p>"
           }
         }
       },
       "block_order": [
         "testimonial_nBrwDe",
         "testimonial_EpDQTy",
-        "testimonial_xyp7Jh"
+        "testimonial_xyp7Jh",
+        "testimonial_KwktAM",
+        "testimonial_VUK3hM"
       ],
       "settings": {
         "full_width": true,
