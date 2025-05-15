@@ -255,7 +255,6 @@
       "blocks": {
         "testimonial_nBrwDe": {
           "type": "testimonial",
-          "disabled": true,
           "settings": {
             "round_avatar": true,
             "show_rating": true,
@@ -293,7 +292,6 @@
         "testimonial_EpDQTy",
         "testimonial_xyp7Jh"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_testimonials": false,
@@ -311,200 +309,27 @@
         "testimonial_card_text_color": ""
       }
     },
-    "ss_testimonial_8_7kqhFp": {
-      "type": "ss-testimonial-8",
-      "blocks": {
-        "slide_Qq8ciQ": {
-          "type": "slide",
-          "settings": {
-            "stars_count": 5,
-            "heading": "",
-            "text": "\"Det er altid en fornøjelse at shoppe her!\"Jeg er virkelig fan af denne butik. Tøjet er stilfuldt, sidder behageligt og svarer helt til billederne. Man kan mærke, at der er lagt omtanke i alt – fra indpakning til kundeservice. Hurtig levering og nem returnering, hvis noget ikke passer. Jeg handler her igen!",
-            "author_date": "Clara"
-          }
-        },
-        "slide_BcmynR": {
-          "type": "slide",
-          "settings": {
-            "stars_count": 5,
-            "heading": "",
-            "text": "\"God oplevelse, men lidt dyrere end gennemsnittet\"Kvaliteten er fremragende – stærke stoffer, flot finish og moderne design. Jeg købte en blazer og bukser og er meget tilfreds. Prisen er lidt højere, men det mærkes også i kvalitet og service. Anbefales til dem, der ønsker holdbart tøj.",
-            "author_date": "Ida"
-          }
-        },
-        "slide_hrJpw8": {
-          "type": "slide",
-          "settings": {
-            "stars_count": 5,
-            "heading": "",
-            "text": "\"Virkelig fin kollektion, men størrelsen var lidt lille\"Min bestilling kom hurtigt og var pænt pakket ind. Sommerkjolen var smuk, men lidt stram. Heldigvis var det nemt at bytte, og jeg fik hurtigt en større størrelse tilsendt. Super service!",
-            "author_date": "Alma"
-          }
-        },
-        "slide_rgL6iG": {
-          "type": "slide",
-          "settings": {
-            "stars_count": 5,
-            "heading": "",
-            "text": "\"Fantastisk kundeservice og unikke styles\"Det, der virkelig skiller sig ud her, er både det stilrene tøj og den personlige service. Jeg havde spørgsmål om størrelser og fik hurtigt og ærligt svar via chat. Blusen, jeg købte, er blevet en favorit.",
-            "author_date": "Agnes"
-          }
-        },
-        "slide_EQeNHk": {
-          "type": "slide",
-          "settings": {
-            "stars_count": 5,
-            "heading": "",
-            "text": "\"Min nye yndlingsbutik!\"Hver gang jeg bestiller herfra, bliver jeg glad. Tøjet er originalt, sidder perfekt og får mig til at føle mig godt tilpas. Jeg får ofte komplimenter, når jeg har det på. Kollektionen opdateres jævnligt med nye favoritter.",
-            "author_date": "Astrid"
-          }
-        },
-        "slide_QY6Uwy": {
-          "type": "slide",
-          "settings": {
-            "stars_count": 5,
-            "heading": "",
-            "text": "\"Komfort og stil i ét\"Jeg ledte efter tøj, der både er flot og behageligt – og fandt det her. Især loungewear er fantastisk: blødt og stadig pænt nok til at have på ude. Nemt at bestille, også fra mobilen.",
-            "author_date": "Freja"
-          }
-        }
-      },
-      "block_order": [
-        "slide_Qq8ciQ",
-        "slide_BcmynR",
-        "slide_hrJpw8",
-        "slide_rgL6iG",
-        "slide_EQeNHk",
-        "slide_QY6Uwy"
-      ],
-      "name": "SS - Testimonial #8",
+    "related_products_V7r8aM": {
+      "type": "related-products",
+      "name": "Related products",
       "settings": {
-        "heading": "Our customers tell it better than we do!",
-        "heading_custom": false,
-        "heading_font": "josefin_sans_n4",
-        "heading_size": 40,
-        "heading_size_mobile": 24,
-        "heading_height": 130,
-        "heading_align": "center",
-        "rating_text": "Excellent",
-        "rating_text_custom": false,
-        "rating_text_font": "josefin_sans_n4",
-        "rating_text_size": 24,
-        "rating_text_size_mobile": 20,
-        "rating_text_height": 130,
-        "rating_text_mt": 16,
-        "rating": 4.7,
-        "rating_hide": false,
-        "rating_text_hide": false,
-        "rating_align": "center",
-        "stars_count": 5,
-        "stars_size": 24,
-        "stars_align": "center",
-        "text": "<p>based on <strong>1 067</strong> reviews</p>",
-        "text_custom": false,
-        "text_font": "josefin_sans_n4",
-        "text_size": 20,
-        "text_size_mobile": 16,
-        "text_height": 130,
-        "text_align": "center",
-        "text_mt": 16,
-        "slider_width": 80,
-        "slider_view": 3,
-        "slider_view_mobile": 1.2,
-        "slider_gap": 20,
-        "slider_gap_mobile": 20,
-        "slider_mt": 36,
-        "card_padding_vertical": 32,
-        "card_padding_vertical_mobile": 24,
-        "card_padding_horizontal": 40,
-        "card_padding_horizontal_mobile": 24,
-        "card_radius": 16,
-        "card_border_thickness": 0,
-        "card_shadow": true,
-        "card_heading_custom": false,
-        "card_heading_font": "josefin_sans_n4",
-        "card_heading_size": 24,
-        "card_heading_size_mobile": 20,
-        "card_heading_height": 130,
-        "card_heading_align": "center",
-        "card_heading_mt": 16,
-        "card_text_custom": false,
-        "card_text_font": "josefin_sans_n4",
-        "card_text_size": 14,
-        "card_text_size_mobile": 14,
-        "card_text_height": 150,
-        "card_text_align": "center",
-        "card_text_mt": 16,
-        "card_text_more": "View More",
-        "card_text_less": "View Less",
-        "card_count_words": 20,
-        "card_author_date_text_custom": false,
-        "card_author_date_text_font": "josefin_sans_n4",
-        "card_author_date_text_size": 16,
-        "card_author_date_text_size_mobile": 16,
-        "card_author_date_text_height": 130,
-        "card_author_date_text_align": "center",
-        "card_author_date_text_mt": 16,
-        "arrow_size": 50,
-        "arrow_size_mobile": 50,
-        "arrow_icon_size": 28,
-        "arrow_icon_size_mobile": 28,
-        "arrow_border_thickness": 0,
-        "arrow_show_desktop": true,
-        "arrow_show_mobile": false,
-        "dots_size": 12,
-        "dots_size_mobile": 12,
-        "dots_show_desktop": false,
-        "dots_show_mobile": false,
-        "button": "View All",
-        "button_url": "",
-        "button_custom": false,
-        "button_font": "josefin_sans_n4",
-        "button_size": 16,
-        "button_size_mobile": 14,
-        "button_height": 100,
-        "button_align": "center",
-        "button_mt": 16,
-        "button_padding_vertical": 20,
-        "button_padding_horizontal": 16,
-        "button_radius": 8,
-        "button_border_thickness": 0,
-        "button_color": "#ffffff",
-        "button_hover_color": "#ffffff",
-        "button_bg_color": "#000000",
-        "button_bg_hover_color": "#000000",
-        "button_border_color": "#000000",
-        "button_border_hover_color": "#000000",
-        "card_bg_color": "#ffffff",
-        "card_border_color": "#000000",
-        "card_shadow_color": "#00b67a",
-        "card_heading_color": "#000000",
-        "card_text_color": "#000000",
-        "card_author_date_text_color": "#000000",
-        "arrow_color": "#000000",
-        "arrow_hover_color": "#000000",
-        "arrow_bg_color": "#ffffff",
-        "arrow_bg_hover_color": "#ffffff",
-        "arrow_border_color": "#ffffff",
-        "arrow_border_hover_color": "#ffffff",
-        "dots_color": "#000000",
-        "heading_color": "#000000",
-        "rating_text_color": "#000000",
-        "stars_color": "#00b67a",
-        "text_color": "#000000",
-        "background_color": "#ffffff",
-        "background_gradient": "linear-gradient(180deg, rgba(206, 239, 199, 1), rgba(255, 255, 255, 1) 100%)",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 60,
-        "padding_bottom": 60,
-        "padding_horizontal": 5,
-        "padding_horizontal_mobile": 1.5,
+        "recommendations_count": 6,
+        "products": [],
         "full_width": true,
-        "content_width": 120,
-        "border_thickness": 0,
-        "lazy": true
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "You may also like",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
       }
     }
   },
@@ -513,6 +338,6 @@
     "testimonials_hDniXa",
     "1704571108a5ada528",
     "testimonials_xn7nHK",
-    "ss_testimonial_8_7kqhFp"
+    "related_products_V7r8aM"
   ]
 }
