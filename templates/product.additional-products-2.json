@@ -259,7 +259,7 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "John S.",
+            "author": "Sofie L.",
             "title": "Testimonial 1",
             "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
           }
@@ -270,7 +270,7 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Mary U.",
+            "author": "Freja K.",
             "title": "Testimonial 2",
             "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
           }
@@ -281,7 +281,7 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Joshua A.",
+            "author": "Laura H.",
             "title": "Testimonial 3",
             "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
           }
@@ -296,7 +296,7 @@
         "full_width": true,
         "stack_testimonials": false,
         "subheading": "",
-        "title": "Wat onze klanten zeggen",
+        "title": "Hvad vores kunder siger",
         "content": "",
         "link_url": "",
         "link_text": "",
