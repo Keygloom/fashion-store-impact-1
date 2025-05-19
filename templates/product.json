@@ -49,6 +49,7 @@
         },
         "payment_terms": {
           "type": "payment_terms",
+          "name": "Størrelsesguide",
           "settings": {}
         },
         "separator": {
