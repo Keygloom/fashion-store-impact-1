@@ -19,7 +19,13 @@
         "title": {
           "type": "title",
           "settings": {
-            "heading_tag": "h2"
+            "heading_tag": "h6"
+          }
+        },
+        "liquid_gHKUG9": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<h1 class=\"product-title\" style=\"font-size: 1.8em; font-weight: 600;\">\n  {{ product.title }}\n</h1>"
           }
         },
         "price": {
@@ -122,6 +128,7 @@
       "block_order": [
         "badges",
         "title",
+        "liquid_gHKUG9",
         "price",
         "liquid_Nbbgnj",
         "44856f88-2876-4fed-9edb-54ea2c222587",
