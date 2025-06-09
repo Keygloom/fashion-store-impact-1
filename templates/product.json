@@ -24,8 +24,15 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "show_taxes_notice": false
+          }
+        },
+        "liquid_Nbbgnj": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "{% if product.compare_at_price > product.price %}\n  {% assign original_price = product.compare_at_price %}\n  {% assign sale_price = product.price %}\n\n  {% assign discount = original_price | minus: sale_price %}\n  {% assign discount_percentage = discount | times: 100 | divided_by: original_price %}\n\n  <div class=\"product-pricing\">\n    <span style=\"text-decoration: line-through; color: #888;\">\n      {{ original_price | money_with_currency }}\n    </span>\n    &nbsp;&nbsp;\n    <strong></strong>\n    <span style=\"font-weight: bold; color: green;\">\n      {{ sale_price | money_with_currency }}\n    </span>\n    &nbsp;&nbsp;\n    <span style=\"color: red; font-weight: 600;\">\n      spar {{ discount_percentage | round }}%\n    </span>\n  </div>\n{% else %}\n  <span style=\"font-weight: bold;\">\n    {{ product.price | money_with_currency }}\n  </span>\n{% endif %}"
           }
         },
         "44856f88-2876-4fed-9edb-54ea2c222587": {
@@ -116,6 +123,7 @@
         "badges",
         "title",
         "price",
+        "liquid_Nbbgnj",
         "44856f88-2876-4fed-9edb-54ea2c222587",
         "21acfca8-11b2-4fe3-9edf-b1e0fde7f912",
         "separator",
