@@ -18,6 +18,7 @@
         },
         "title": {
           "type": "title",
+          "disabled": true,
           "settings": {
             "heading_tag": "h6"
           }
@@ -38,7 +39,7 @@
         "liquid_Nbbgnj": {
           "type": "liquid",
           "settings": {
-            "liquid": "{% if product.compare_at_price > product.price %}\n  {% assign original_price = product.compare_at_price %}\n  {% assign sale_price = product.price %}\n\n  {% assign discount = original_price | minus: sale_price %}\n  {% assign discount_percentage = discount | times: 100 | divided_by: original_price %}\n\n  <div class=\"product-pricing\">\n    <span style=\"text-decoration: line-through; color: #888;\">\n      {{ original_price | money_with_currency }}\n    </span>\n    &nbsp;&nbsp;\n    <strong></strong>\n    <span style=\"font-weight: bold; color: green;\">\n      {{ sale_price | money_with_currency }}\n    </span>\n    &nbsp;&nbsp;\n    <span style=\"color: red; font-weight: 600;\">\n      spar {{ discount_percentage | round }}%\n    </span>\n  </div>\n{% else %}\n  <span style=\"font-weight: bold;\">\n    {{ product.price | money_with_currency }}\n  </span>\n{% endif %}"
+            "liquid": "{% if product.compare_at_price > product.price %}\n  {% assign original_price = product.compare_at_price %}\n  {% assign sale_price = product.price %}\n\n  {% assign discount = original_price | minus: sale_price %}\n  {% assign discount_percentage = discount | times: 100 | divided_by: original_price %}\n\n  <div class=\"product-pricing\" style=\"display: flex; gap: 10px; align-items: center; flex-wrap: wrap;\">\n    <span style=\"color: #000; text-decoration: line-through;\">\n      {{ original_price | money_with_currency }}\n    </span>\n    <span style=\"color: green; font-size: 1.5em; font-weight: bold;\">\n      {{ sale_price | money_with_currency }}\n    </span>\n    <span style=\"color: red; font-weight: 600;\">\n      Spar {{ discount_percentage | round }}%\n    </span>\n  </div>\n{% else %}\n  <div class=\"product-pricing\">\n    <span style=\"color: green; font-size: 1.2em; font-weight: bold;\">\n      {{ product.price | money_with_currency }}\n    </span>\n  </div>\n{% endif %}"
           }
         },
         "44856f88-2876-4fed-9edb-54ea2c222587": {
