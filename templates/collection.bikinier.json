@@ -12,14 +12,14 @@
     "banner": {
       "type": "collection-banner",
       "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
+        "full_width": true,
+        "allow_transparent_header": true,
         "enable_parallax": true,
         "show_collection_title": true,
         "show_collection_description": true,
         "show_collection_image": true,
-        "collection_title_size": "h0",
-        "image_size": "auto",
+        "collection_title_size": "h6",
+        "image_size": "sm",
         "image": "shopify://shop_images/Kob_2_produkter_fa_5_rabat.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
