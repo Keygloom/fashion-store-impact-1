@@ -67,7 +67,6 @@
         },
         "variant_picker": {
           "type": "variant_picker",
-          "disabled": true,
           "settings": {
             "hide_sold_out_variants": false,
             "stack_blocks": true,
@@ -79,6 +78,7 @@
         },
         "liquid_neBDYR": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "{% assign color_index = 0 %}\n{% assign size_index = 1 %}\n\n<!-- KLEURKEUZE MET AFBEELDING -->\n{% if product.options.size > 0 %}\n  <div style=\"margin-bottom: 24px;\">\n    <label style=\"font-weight: 600; margin-bottom: 6px; display: block;\">Farve:</label>\n    <div style=\"display: flex; gap: 16px; flex-wrap: wrap;\">\n      {% assign colors_handled = '' %}\n      {% for variant in product.variants %}\n        {% assign color = variant.options[color_index] %}\n        {% unless colors_handled contains color %}\n          {% assign colors_handled = colors_handled | append: color | append: ',' %}\n          <label style=\"cursor: pointer; text-align: center;\">\n            <input type=\"radio\"\n                   name=\"options[{{ product.options[color_index] }}]\"\n                   value=\"{{ color }}\"\n                   form=\"product-form\"\n                   style=\"position: absolute; opacity: 0;\">\n\n            {% if variant.featured_image %}\n              <img src=\"{{ variant.featured_image | img_url: '100x100' }}\"\n                   alt=\"{{ color }}\"\n                   style=\"width: 60px; height: 60px; border-radius: 8px; object-fit: cover; border: 2px solid #ccc; margin-bottom: 4px;\">\n            {% endif %}\n\n            <div style=\"font-size: 13px;\">{{ color }}</div>\n          </label>\n        {% endunless %}\n      {% endfor %}\n    </div>\n  </div>\n{% endif %}\n\n<!-- MAATKEUZE -->\n{% if product.options.size > 1 %}\n  <div style=\"margin-bottom: 16px;\">\n    <label style=\"font-weight: 600; margin-bottom: 6px; display: block;\">Størrelse:</label>\n    <div style=\"display: flex; gap: 10px; flex-wrap: wrap;\">\n      {% assign sizes_handled = '' %}\n      {% for variant in product.variants %}\n        {% assign size = variant.options[size_index] %}\n        {% unless sizes_handled contains size %}\n          {% assign sizes_handled = sizes_handled | append: size | append: ',' %}\n          <label style=\"cursor: pointer;\">\n            <input type=\"radio\"\n                   name=\"options[{{ product.options[size_index] }}]\"\n                   value=\"{{ size }}\"\n                   form=\"product-form\"\n                   style=\"position: absolute; opacity: 0;\">\n            <span style=\"padding: 6px 16px; border: 2px solid #ccc; border-radius: 20px; display: inline-block;\">\n              {{ size }}\n            </span>\n          </label>\n        {% endunless %}\n      {% endfor %}\n    </div>\n  </div>\n{% endif %}"
           }
