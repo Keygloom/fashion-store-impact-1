@@ -82,7 +82,7 @@
         "disabled": false,
         "settings": {
           "alignment": "left",
-          "swatch_location": "After image",
+          "swatch_location": "After title",
           "switch_on_hover": true,
           "preselect_variant": true
         }
