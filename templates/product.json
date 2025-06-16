@@ -282,6 +282,49 @@
         "text_color": ""
       }
     },
+    "image_with_text_overlay_LLdeFH": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_RjgaMf": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_NLUrJn": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_LE9p9B": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>En afsked fyldt med taknemmelighed!</strong></p><p>Med tungt hjerte meddeler vi lukningen af vores butik 💔</p><p>Gennem årene har vi lagt vores passion i at skabe tøj og accessories – fra frakker og jakker til sko og tasker.</p><p>Vi er nu næsten udsolgt og tilbyder rabatter på op til 80 % – automatisk fratrukket.</p><p>Tak fordi I var en del af vores rejse!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_RjgaMf",
+        "heading_NLUrJn",
+        "richtext_LE9p9B"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_Jun_16_2025_10_27_13_AM.png",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_Jun_16_2025_10_27_13_AM.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "slideshow_QTgXAh": {
       "type": "slideshow",
       "name": "Slideshow",
@@ -332,6 +375,7 @@
     "170310467450744b64",
     "1704571108a5ada528",
     "174672992120e589d6",
+    "image_with_text_overlay_LLdeFH",
     "slideshow_QTgXAh",
     "featured_collection_Ngiq7W"
   ]

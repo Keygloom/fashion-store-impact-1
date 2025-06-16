@@ -15,8 +15,8 @@
         "image_fQNBw6": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Brown_and_White_Simple_Fashion_Sale_Banner_6.png",
-            "mobile_image": "shopify://shop_images/Brown_and_White_Simple_Fashion_Sale_Banner_6.png",
+            "image": "shopify://shop_images/banner_vi_lukker_2800x1000_8ea588ba-50e2-48a3-a755-e3e8cf436d0c.jpg",
+            "mobile_image": "shopify://shop_images/shopify_banner_2048x800_59c244e3-1261-42ef-b442-9eefdd622032.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
